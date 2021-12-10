@@ -1,0 +1,33 @@
+A/B testing (also known as split testing) is the process of comparing two versions of a web page, email, 
+or other marketing asset and measuring the difference in performance. 
+You do this giving one version to one group and the other version to another group. 
+Then you can see how each variation performs
+
+
+Pros of A/B testing
+a. Get clear evidence
+   It’s easy to see how many users complete a transaction with site A over site B. 
+   The evidence is based on real behaviour, so is hard data of the type that money men love (and can be presented in a simple-looking, hard hitting chart).
+b. Test new ideas
+   If you have an innovative idea for an existing site, A/B testing provides hard proof as to whether it works or not. 
+   However, you will need to implement that big idea in hard code before you can test it this way.
+c. Optimise one step at a time
+   If you run a large site, or many sites, then A/B testing is a fantastic opportunity to “patch” test, 
+   by starting out in a small corner and then working up to the main pages of the site. 
+d. Answer specific design questions
+   Are green buttons better than red ones for your site design? 
+   This and many other questions can be answered by A/B testing as they allow the designer to test different colours, 
+   placement of buttons, page layouts, different images which are all good areas to slowly improve a website.
+   
+   
+Cons of A/B testing
+a. Can take lots of time and resources
+
+b. Only works for specific goals
+
+c. Doesn’t improve a dud
+
+d. Could end up with constant testing
+   Once the test is over, that is it. The data is useless for anything else. 
+   Further A/B tests will have to start from a new baseline and other types of testing will only likely be applied to the more successful site, 
+   when they could have found equally useful information from the rejected version.
